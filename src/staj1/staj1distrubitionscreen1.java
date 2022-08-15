@@ -48,6 +48,7 @@ public class staj1distrubitionscreen1 extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
+		
 		JPanel dstpanel = new JPanel();
 		dstpanel.setBounds(10, 11, 826, 412);
 		contentPane.add(dstpanel);
