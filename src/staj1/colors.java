@@ -8,4 +8,5 @@ public class colors {
 	Color lightpanel = new Color(220,220,220);
 	Color lightsubpanel = new Color(190,190,190);
 	Color lightcomponents = new Color(180,180,180);
+	
 }
